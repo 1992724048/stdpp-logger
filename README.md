@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="Logger_README.md">English</a> | <a href="Logger_README.zh-CN.md">中文</a>
+  <a href="README.md">English</a> | <a href="README.zh-CN.md">中文</a>
 </p>
 
 # stdpp Logger — C++20 Pluggable Logging Library
